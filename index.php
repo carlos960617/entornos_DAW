@@ -10,6 +10,14 @@
 
    <h1>Header</h1>
 
+   <?php  
+   $base = 10;  
+   $altura = 15;  
+   echo "El area de un triangulo con base $base y altura $altura= " . ($base * $altura) / 2;  
+   ?>  
+
+
+
    <img src="imagenes/increibles.png" width="100px"/>
 
    <ul>
