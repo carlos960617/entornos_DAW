@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <head>
+  <head><!--Checking M de cambios-->
     <meta charset="utf-8">
 
     <title>Mi título de página</title>
