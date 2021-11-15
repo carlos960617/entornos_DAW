@@ -11,8 +11,8 @@
    <h1>Header</h1>
 
    <?php  
-   $base = 10;  
-   $altura = 15;  
+   $base = 200;  
+   $altura = 546;  
    echo "El area de un triangulo con base $base y altura $altura= " . ($base * $altura) / 2;  
    ?>  
 
